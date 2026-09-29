@@ -1,7 +1,7 @@
 {
   "id": "actor-hover-notes",
   "title": "Actor Hover Notes",
-  "description": "Displays GURPS notes when hovering over an actor in the Actors sidebar. — Показывает заметки GURPS при наведении на актёра в боковой панели «Актёры».",
+  "description": "Displays GURPS notes when hovering over an actor in the Actors sidebar. | Показывает заметки GURPS при наведении на актёра в боковой панели «Актёры».",
   "version": "1.0.0",
   "authors": [
     { "name": "Alekev.Moon" },
