@@ -1,0 +1,22 @@
+/* Actor Hover Notes: оформление всплывающей заметки */
+#tooltip.ahn-tooltip {
+  max-width: 420px;
+  max-height: 60vh;
+  overflow: hidden;
+  text-align: left;
+  line-height: 1.4;
+}
+
+#tooltip.ahn-tooltip strong {
+  display: block;
+  font-size: 1.05em;
+}
+
+#tooltip.ahn-tooltip hr {
+  margin: 6px 0;
+  opacity: 0.4;
+}
+
+#tooltip.ahn-tooltip p {
+  margin: 0 0 4px;
+}

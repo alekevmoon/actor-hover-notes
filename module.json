@@ -1,0 +1,12 @@
+{
+  "id": "actor-hover-notes",
+  "title": "Actor Hover Notes",
+  "description": "Показывает заметки GURPS при наведении на актёра в боковой панели «Актёры».",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "14"
+  },
+  "esmodules": ["scripts/main.js"],
+  "styles": ["styles/main.css"]
+}
