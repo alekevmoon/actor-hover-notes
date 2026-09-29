@@ -1,12 +1,19 @@
 {
   "id": "actor-hover-notes",
   "title": "Actor Hover Notes",
-  "description": "Показывает заметки GURPS при наведении на актёра в боковой панели «Актёры».",
+  "description": "Displays GURPS notes when hovering over an actor in the Actors sidebar. — Показывает заметки GURPS при наведении на актёра в боковой панели «Актёры».",
   "version": "1.0.0",
+  "authors": [
+    { "name": "Alekev.Moon" },
+    { "name": "Noxmrr" }
+  ],
   "compatibility": {
     "minimum": "13",
     "verified": "14"
   },
   "esmodules": ["scripts/main.js"],
-  "styles": ["styles/main.css"]
+  "styles": ["styles/main.css"],
+  "url": "https://github.com/alekevmoon/actor-hover-notes",
+  "manifest": "https://github.com/alekevmoon/actor-hover-notes/releases/latest/download/module.json",
+  "download": "https://github.com/alekevmoon/actor-hover-notes/releases/download/v1.0.0/module.zip"
 }
